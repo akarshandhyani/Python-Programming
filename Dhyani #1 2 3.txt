@@ -1,0 +1,3 @@
+This 3 videos contain info about python basic info , and modules and pip in python.
+Modulles are files containing python defination and statements
+Pip is a package manager for python.
